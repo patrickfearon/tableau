@@ -1,5 +1,5 @@
 # tableau
-Tableau projects
+Tableau Projects
 
 **Covid Data Visualisation**
 
